@@ -757,6 +757,11 @@
   resolved "https://registry.yarnpkg.com/@kizahasi/result/-/result-0.3.0.tgz#289d0b8386af374387e7b19b4a6ff01ae9688001"
   integrity sha512-hS1wjM91tHgvu66vTkKX0x4Qbyqr45d+90Y2c1Nv2e5fR9KXukmls1jRv/aW/yZugMnNUbLMEvVbsCcpfJZQSw==
 
+"@kizahasi/result@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@kizahasi/result/-/result-1.0.0.tgz#702660f8f0a5c67a91b737c7aea319448c3dd54c"
+  integrity sha512-od5eGg6fe2lLmh6+HDKt2qXe9EKn1UZ1EWdT+O5JOT6asl8IHhvGxIpLdN9q7PcQJdzck8lc6ea18aZYWD1FyQ==
+
 "@kizahasi/util@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@kizahasi/util/-/util-0.3.0.tgz#64e307ecb734adf222f3a05d11db2e076b2d4707"
