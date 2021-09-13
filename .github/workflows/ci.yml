@@ -31,7 +31,7 @@ jobs:
               run: yarn build
 
             - name: Test
-              run: yarn test --ci --coverage --maxWorkers=2
+              run: yarn test --ci --coverage --maxWorkers=4
 
     large-test:
         name: Large test on Node ${{ matrix.node }} and ${{ matrix.os }}
@@ -55,7 +55,7 @@ jobs:
               run: yarn
 
             - name: Test
-              run: TEST_NUM_RUNS=5000 yarn test --ci --coverage --maxWorkers=2
+              run: TEST_NUM_RUNS=5000 yarn test --ci --coverage --maxWorkers=4
 
     # fails in windows because it uses crlf
     prettier:
