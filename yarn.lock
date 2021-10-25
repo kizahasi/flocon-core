@@ -1991,10 +1991,10 @@ fast-check-io-ts@0.5.0:
   resolved "https://registry.yarnpkg.com/fast-check-io-ts/-/fast-check-io-ts-0.5.0.tgz#b584a2483c37a2f42ed33bdf9ac4e95a01eabe0f"
   integrity sha512-z+jV8N2S+YY+2kvHLQmNBJGdjg+2W++F0jq4ga2kC2PI7jaX0MmpX77JNqNfSL0sOzzmTuR3eEB1BbXoH26wnw==
 
-fast-check@2.18.1:
-  version "2.18.1"
-  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-2.18.1.tgz#230c90721ed8b743739731a3b1f7d3fafaf5647f"
-  integrity sha512-iNntcmt4xX3UvDV6tJNUIUrbskT78RCUTtZDfT8/QU+b8pDrmfi4aBIVaXDi3qHtseSp0pDIsdPPy73Uu4RmsA==
+fast-check@2.19.0:
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-2.19.0.tgz#e87666450e417cd163a564bd546ee763d27c0f19"
+  integrity sha512-qY4Rc0Nljl2aJx2qgbK3o6wPBjL9QvhKdD/VqJgaKd5ewn8l4ViqgDpUHJq/JkHTBnFKomYYvkFkOYGDVTT8bw==
   dependencies:
     pure-rand "^5.0.0"
 
